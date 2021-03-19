@@ -27,7 +27,7 @@ Design Ideation with Cooperative Contextual Bandits</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Design-AI-Papers/blob/master/g(13).pdf" style="text-decoration:none;">ICONATE:
 Automatic Compound Icon Generation and Ideation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Design-AI-Papers/blob/master/g(14).pdf" style="text-decoration:none;">Quboid: A Workstation for Safer Web Interaction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Design-AI-Papers/blob/master/g(14).pdf" style="text-decoration:none;">Artificial Intelligence and Robotics</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Design-AI-Papers/blob/master/g(15).pdf" style="text-decoration:none;">Learning Layouts for Single-Page Graphic
 Designs</a></li>
@@ -52,5 +52,14 @@ Attributes and Content Adaptation</a></li>
  
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Design-AI-Papers/blob/master/g(24).pdf" style="text-decoration:none;">PubLayNet: largest dataset ever for document layout analysis</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Design-AI-Papers/blob/master/g(25).pdf" style="text-decoration:none;">Human-centered AI: The role of Human-centered Design Research in the development of AI</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Design-AI-Papers/blob/master/g(26).pdf" style="text-decoration:none;">Design After the Rise of AI-Driven Services: Learning from Literature Review</a></li>
+ 
+ 
+ 
+ 
  
  </ul>
